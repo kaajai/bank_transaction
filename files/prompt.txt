@@ -1,0 +1,3 @@
+I'm going to give you the contents of a pdf of a bank statement. The text containes transaction records along with other things.
+you job is to parse each transaction record and return the details like date, description, amount and type. The type column should contain either 
+'credit' or 'debit'. Return these information in a tabular format. Do not return anything else just the table

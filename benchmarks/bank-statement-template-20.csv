@@ -1,0 +1,17 @@
+S No.,Date,Description,Amount,Type,Prediction,
+1,07/02/2008,Deposit,17120.00,Credit,Credit,TP
+2,07/09/2008,Deposit,24610.00,Credit,Credit,TP
+3,07/14/2008,Deposit,11424.00,Credit,Credit,TP
+4,07/15/2008,Deposit,1349.00,Credit,Credit,TP
+5,07/21/2008,Deposit,5000.00,Credit,Credit,TP
+6,07/21/2008,Deposit,3120.00,Credit,Credit,TP
+7,07/23/2008,Deposit,33138.00,Credit,Credit,TP
+8,07/28/2008,Deposit,18114.00,Credit,Credit,TP
+9,07/30/2008,Deposit,6908.63,Credit,Credit,TP
+10,07/30/2008,Deposit,5100.00,Credit,Credit,TP
+11,07/08/2008,,1471.99,Debit,Debit,TN
+12,07/14/2008,,1697.05,Debit,Debit,TN
+13,07/11/2008,Online Payment XXXXX to Vendor,8928.00,Debit,Debit,TN
+14,07/11/2008,Online Payment XXXXX to Vendor,2960.00,Debit,Debit,TN
+15,07/25/2008,Online Payment XXXXX to Vendor,250.00,Debit,Debit,TN
+16,07/30/2008,ADP TX/Fincl Svc ADP,2887.68,Debit,Debit,TN

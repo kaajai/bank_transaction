@@ -1,0 +1,12 @@
+S No. ,Date ,Description,Amount,Type,Prediction,
+1,04/08/2010,Insurance,272.45,Credit,Debit,FN
+2,04/10/2010,ATM,200.00,Debit,Debit,TP
+3,04/12/2010,Internet Transfer,250.00,Credit,Debit,FN
+4,04/12/2010,Payroll,2100.00,Credit,Credit,TP
+5,04/13/2010,Bill Payment,135.07,Debit,Debit,TN
+6,04/14/2010,Direct Debit,200.00,Debit,Debit,TN
+7,04/14/2010,Deposit,250.00,Credit,Credit,TP
+8,04/15/2010,Bill Payment,525.72,Debit,Debit,TN
+9,04/17/2010,Bill Payment,327.63,Debit,Debit,TN
+10,04/17/2010,Bill Payment,729.96,Debit,Debit,TN
+11,04/18/2010,Bill Payment,223.69,Debit,Debit,TN

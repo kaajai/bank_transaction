@@ -1,0 +1,9 @@
+S No. ,Date,Description,Amount,Type,Prediction,
+1,05/26/2024,Payment - Credit Card,5400.00,Debit,Debit,TN
+2,05/21/2024,Payment - Insurance,3000.00,Debit,Debit,TN
+3,05/18/2024,Account Transfer In,500000.00,Credit,Credit,TP
+4,05/16/2024,Cheque Deposite,10000.00,Credit,Credit,TP
+5,5/9/24,Payment - Electricity,1500.00,Debit,Debit,TN
+6,5/3/24,Payment - Water Utility,600.00,Debit,Debit,TN
+7,5/3/24,Payment - Car Loan,3500.00,Debit,Debit,TN
+8,5/1/24,Account Transfer Out,80000.00,Debit,Debit,TN

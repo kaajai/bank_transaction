@@ -1,0 +1,18 @@
+S No.,Date,Description,Amount,Type,Prediction,
+1,mm/dd/yyyy,Amazon,132.3,Debit,Debit,TN
+2,mm/dd/yyyy,eBAY Trading Co.,515.22,Debit,Debit,TN
+3,mm/dd/yyyy,Morrisons Petrol,80,Debit,Debit,TN
+4,mm/dd/yyyy,Business Loan,20000,Credit,Credit,TP
+5,mm/dd/yyyy,Jumes White Media,2415.85,Debit,Debit,TN
+6,mm/dd/yyyy,ATM High Street,100,Debit,Debit,TN
+7,mm/dd/yyyy,Accom Advertising Studios,150,Debit,Debit,TN
+8,mm/dd/yyyy,Marriott Hotels,177,Debit,Debit,TN
+9,mm/dd/yyyy,Abelio Scotrail Ltd,122.22,Debit,Debit,TN
+10,mm/dd/yyyy,Cheque 000234,1200,Debit,Debit,TN
+11,mm/dd/yyyy,Interest Paid,9.33,Credit,Credit,TP
+12,mm/dd/yyyy,OVO Energy,270,Debit,Debit,TN
+13,mm/dd/yyyy,Toyota Online,10525.4,Debit,Debit,TN
+14,mm/dd/yyyy,HMRC,1000,Debit,Debit,TN
+15,mm/dd/yyyy,OVLA,280,Debit,Debit,TN
+16,mm/dd/yyyy,Michael Kor Salary,1554,Debit,Credit,FP
+17,mm/dd/yyyy,BOS Mastercard,4000,Debit,Debit,TN
